@@ -10,6 +10,7 @@
     <sprite>sprites\blook</sprite>
     <sprite>sprites\sCrate</sprite>
     <sprite>sprites\Censor</sprite>
+    <sprite>sprites\Testicoles</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
